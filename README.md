@@ -1,4 +1,4 @@
-# unix_socket_chat
+# tcp_chat_app
 
 A simple command-line chat app with UNIX sockets over TCP.
 
