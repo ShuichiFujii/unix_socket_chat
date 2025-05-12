@@ -1,10 +1,10 @@
 # unix_socket_chat
 
-A simple command-line chat app with UNIX sockets.
+A simple command-line chat app with UNIX sockets over TCP.
 
 ## Features
 
-- Send a message from a client to a server
+- Send a message from a client to a TCP server
 
 
 ## How to run
